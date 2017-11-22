@@ -1,0 +1,17 @@
+{
+  "name": "turncypher/composer-dependence-two",
+  "type": "library",
+  "authors": [
+    {
+      "name": "turncypher",
+      "email": "turncypher@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "DependenceTwo\\": "src/"
+    }
+  }
+}
