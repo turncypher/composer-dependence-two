@@ -12,6 +12,6 @@ class DependenceTwo
 {
     public function test()
     {
-        echo 'dependence from github demo' . PHP_EOL;
+        echo 'dependence from packagelist demo' . PHP_EOL;
     }
 }
